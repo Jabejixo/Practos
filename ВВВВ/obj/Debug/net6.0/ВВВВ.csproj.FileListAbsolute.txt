@@ -1,0 +1,15 @@
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\bin\Debug\net6.0\ВВВВ.exe
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\bin\Debug\net6.0\ВВВВ.deps.json
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\bin\Debug\net6.0\ВВВВ.runtimeconfig.json
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\bin\Debug\net6.0\ВВВВ.dll
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\bin\Debug\net6.0\ВВВВ.pdb
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ВВВВ.csproj.AssemblyReference.cache
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ВВВВ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ВВВВ.AssemblyInfoInputs.cache
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ВВВВ.AssemblyInfo.cs
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ВВВВ.csproj.CoreCompileInputs.cache
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ВВВВ.dll
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\refint\ВВВВ.dll
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ВВВВ.pdb
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ВВВВ.genruntimeconfig.cache
+C:\Users\JolyGenious\source\repos\ВВВВ\ВВВВ\obj\Debug\net6.0\ref\ВВВВ.dll
